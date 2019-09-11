@@ -1,0 +1,33 @@
+.navbar-default {
+	background-color: #288448;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+}
+
+
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: white;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: white;
+    background-color: transparent;
+}
+
+.intro {
+	text-align: center;
+	padding-top: 50px;
+}
+
